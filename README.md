@@ -74,12 +74,10 @@ This project proposes a deep learning-based classification system using an **Ens
 
 ## 📈 Results
 
-*(Isi sesuai hasilmu nanti)*
-
-* Accuracy: xx%
-* Precision: xx%
-* Recall: xx%
-* F1-Score: xx
+* Accuracy: 96,79%
+* Precision (weighted): 97,59%
+* Recall (Weighted): 96,79%
+* F1-Score (Weighted): 97,07%
 
 ### 📊 Evaluation
 
@@ -87,48 +85,3 @@ This project proposes a deep learning-based classification system using an **Ens
 * Confusion Matrix
 * Learning Curve (Accuracy & Loss)
 
----
-
-## 📂 Project Structure
-
-```id="h1k2d9"
-heart-arrhythmia-ensemble-cnn/
-│
-├── data/              # Dataset (not included / external link)
-├── notebooks/         # Jupyter / Colab notebook
-├── src/               # Model & training code (optional)
-├── results/           # Plots & evaluation outputs
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 💡 Key Contributions
-
-* Implementation of **SMOTEENN** for handling imbalanced ECG data
-* Development of **Ensemble 1D CNN** with multiple kernel sizes
-* Application of deep learning in healthcare domain (arrhythmia detection)
-
----
-
-## ⚠️ Limitations
-
-* Model performance depends on data quality and preprocessing
-* Requires further validation for real-world clinical use
-
----
-
-## 🔮 Future Work
-
-* Hyperparameter tuning optimization
-* Testing with additional ECG datasets
-* Deployment as a real-time monitoring system
-
----
-
-## 👤 Author
-
-**Arasy**
-Informatics Engineering Graduate
-Aspiring Software Engineer (Machine Learning / AI)
